@@ -61,6 +61,10 @@ This project leverages supervised machine learning algorithms to predict the lik
 
 ## 📸 Screenshots
 
+![Home Page](screenshots/homepage)
+![Login Page](screenshots/loginpage)
+![User registration Page](screenshots/user-registration)
+![Doctor registration Page](screenshots/doctor-registration)
 
 ---
 
